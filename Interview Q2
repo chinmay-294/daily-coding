@@ -1,0 +1,19 @@
+What are the different types of variables in Java?
+How are instance variables different from local variables
+What is a static variable? When would you use one?
+What is the scope and lifetime of a local variable?
+Can a static method access instance variables directly? Why or why not?
+What is the difference between primitive and reference variables?
+What are primitive types in Java? List them.
+What is the difference between int and Integer?
+How are reference variables stored in memory?
+What happens when a reference variable is assigned null?
+Can a reference variable point to a primitive?
+What are some common Java coding standards or naming conventions?
+How should constants be named in Java?
+Why is indentation and proper naming important in Java?
+How would you name a class, method, variable, and constant?
+How do you declare a constant in Java?
+What is the purpose of the final keyword?
+What happens if you try to reassign a final variable?
+Can a final reference variable point to another object?
